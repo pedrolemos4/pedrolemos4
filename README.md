@@ -17,7 +17,7 @@
       <p></p>
       <p>📫 You can reach me at pedro.vassalo.lemos@gmail.com</p>
       <p>🧾 Bachelor in Software Engineer in ISEP ✔</p>
-      <p>🧾 Master's at ISEP in Software Engineer - Cybersecurity and System's Administration 🔜 </p> 
+      <p>🧾 Master's at ISEP in Software Engineer - Cybersecurity and System's Administration ✔ </p> 
       <p>💼 Currently working at Bosch</p> 
 </div>
 
