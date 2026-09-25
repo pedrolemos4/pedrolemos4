@@ -3,20 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi%2C%20I'm%20Pedro%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%40+Bosch;Cybersecurity+%26+Systems+Enthusiast;Always+learning+something+new;Welcome+to+my+profile+%3A%29&font=Fira%20Code&center=true&width=500&height=40&color=2ecc71&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%40+EVS;Cybersecurity+%26+Systems+Enthusiast;Always+learning+something+new;Welcome+to+my+profile+%3A%29&font=Fira+Code&center=true&width=500&height=40&color=2ecc71&vCenter=true&size=22" />
 </a>
 
 </div>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pedrolemos4&theme=onedark&no-frame=true&margin-w=10&column=7" alt="pedrolemos4 trophies" />
-  </a>
-</p>
-
 <div align="center">
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/pedro-lemos-6024ba208/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:pedro.vassalo.lemos@gmail.com">
@@ -24,9 +18,6 @@
 </a>
 <a href="https://github.com/pedrolemos4">
   <img src="https://komarev.com/ghpvc/?username=pedrolemos4&color=2ecc71&style=for-the-badge&label=Profile+Views" />
-</a>
-<a href="./LICENSE">
-  <img src="https://img.shields.io/github/license/pedrolemos4/pedrolemos4?style=for-the-badge&color=2ecc71" />
 </a>
 
 </div>
@@ -37,7 +28,7 @@
 
 - 🎓 Bachelor in Software Engineering @ **ISEP**
 - 🎓 Master's in Software Engineering — *Cybersecurity & Systems Administration* @ **ISEP**
-- 💼 Currently working at **Bosch**
+- 💼 Currently working at **EVS**
 - 📫 Reach me at **pedro.vassalo.lemos@gmail.com**
 
 <br>
@@ -48,15 +39,9 @@
 
 |  |  |
 |---|---|
-| ☁️ **Cloud & IoT** | Azure, cloud architecture, connected devices |
-| 💻 **Development** | .NET, and a broad range of other languages & frameworks |
-| 🖥️ **Infrastructure & Systems** | systems administration, cybersecurity |
-
-</div>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=dotnet,azure,cs,docker,linux&theme=dark" />
+| ☁️ **Cloud & IoT** | Cloud architecture, connected devices |
+| 💻 **Development** | Software development and engineering |
+| 🖥️ **Infrastructure & Systems** | Systems administration, cybersecurity |
 
 </div>
 
@@ -70,12 +55,6 @@
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pedrolemos4&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="pedrolemos4 top langs" width="38%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrolemos4&theme=onedark&hide_border=true" alt="pedrolemos4 streak" width="60%" />
-
-</div>
-
-<div align="center">
-
-[![Pedro's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrolemos4&theme=react-dark&bg_color=0d1117&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
