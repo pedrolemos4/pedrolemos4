@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi%2C%20I'm%20Pedro%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%40+EVS;Cybersecurity+%26+Systems+Enthusiast;Always+learning+something+new;Welcome+to+my+profile+%3A%29&font=Fira%20Code&center=true&width=500&height=40&color=2ecc71&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%40+Bosch;Cybersecurity+%26+Systems+Enthusiast;Always+learning+something+new;Welcome+to+my+profile+%3A%29&font=Fira%20Code&center=true&width=500&height=40&color=2ecc71&vCenter=true&size=22" />
 </a>
 
 </div>
@@ -37,21 +37,28 @@
 
 - 🎓 Bachelor in Software Engineering @ **ISEP**
 - 🎓 Master's in Software Engineering — *Cybersecurity & Systems Administration* @ **ISEP**
-- 💼 Currently working at **EVS**
+- 💼 Currently working at **Bosch**
 - 📫 Reach me at **pedro.vassalo.lemos@gmail.com**
-- ⚡ Fun fact: *replace this with something fun about yourself!*
 
 <br>
 
-## 🛠️ Tech Stack
+## 🛠️ What I Work With
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,html,css,git,linux,docker&theme=dark" />
+|  |  |
+|---|---|
+| ☁️ **Cloud & IoT** | Azure, cloud architecture, connected devices |
+| 💻 **Development** | .NET, and a broad range of other languages & frameworks |
+| 🖥️ **Infrastructure & Systems** | systems administration, cybersecurity |
 
 </div>
 
-> ✏️ *This is a placeholder set — swap the icons above for the languages and tools you actually use. Full icon list: [skillicons.dev](https://skillicons.dev)*
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=dotnet,azure,cs,docker,linux&theme=dark" />
+
+</div>
 
 <br>
 
@@ -59,8 +66,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pedrolemos4&show_icons=true&locale=en&theme=onedark&hide_border=true&count_private=true" alt="pedrolemos4 stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolemos4&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="pedrolemos4 top langs" width="38%" />
+<img src="https://github-stats-extended.vercel.app/api?username=pedrolemos4&show_icons=true&locale=en&theme=onedark&hide_border=true&count_private=true" alt="pedrolemos4 stats" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pedrolemos4&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="pedrolemos4 top langs" width="38%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrolemos4&theme=onedark&hide_border=true" alt="pedrolemos4 streak" width="60%" />
 
