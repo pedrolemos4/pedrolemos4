@@ -37,13 +37,20 @@
 
 <div align="center">
 
-|  |  |
-|---|---|
-| ☁️ **Cloud & IoT** | Cloud architecture, connected devices |
-| 💻 **Development** | Software development and engineering |
-| 🖥️ **Infrastructure & Systems** | Systems administration, cybersecurity |
+### ☁️ Cloud & IoT
+
+Cloud architecture, connected devices
+
+### 💻 Development
+
+Software development and engineering
+
+### 🛠️ Infrastructure & Systems
+
+Systems administration and cybersecurity
 
 </div>
+
 
 <br>
 
