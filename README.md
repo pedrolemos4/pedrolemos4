@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi%2C%20I'm%20Pedro%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%40+Bosch;Cybersecurity+%26+Systems+Enthusiast;Always+learning+something+new;Welcome+to+my+profile+%3A%29&font=Fira%20Code&center=true&width=500&height=40&color=2ecc71&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%40+EVS;Cybersecurity+%26+Systems+Enthusiast;Always+learning+something+new;Welcome+to+my+profile+%3A%29&font=Fira%20Code&center=true&width=500&height=40&color=2ecc71&vCenter=true&size=22" />
 </a>
 
 </div>
@@ -37,7 +37,7 @@
 
 - 🎓 Bachelor in Software Engineering @ **ISEP**
 - 🎓 Master's in Software Engineering — *Cybersecurity & Systems Administration* @ **ISEP**
-- 💼 Currently working at **Bosch**
+- 💼 Currently working at **EVS**
 - 📫 Reach me at **pedro.vassalo.lemos@gmail.com**
 - ⚡ Fun fact: *replace this with something fun about yourself!*
 
